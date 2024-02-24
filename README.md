@@ -1,2 +1,2 @@
 # docker-toolbox
-Docker image with sane defaults for testing
+Docker image with several default packages for testing
